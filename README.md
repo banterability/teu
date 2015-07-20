@@ -23,6 +23,6 @@ store.get(function(items){
 
 | Method                     |
 | -------------------------- |
-| `add(newItem, *callback*)` |
+| `add(newItem, callback?)` |
 | `get(callback)`            |
-| `remove(index, *callback*` |
+| `remove(index, callback?)` |
